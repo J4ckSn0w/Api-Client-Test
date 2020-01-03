@@ -1,2 +1,2 @@
-# API CLIENT
-Simple API Client android application using Kotlin, RXJava, Retrofit.
+# API CLIENT TESTER
+A simple api test using https://jsonplaceholder.typicode.com/ format to test the api's and show it in a kotlin app with Android Studio.
